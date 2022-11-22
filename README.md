@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maimul
 - 👀 My personal interest are technologies, machine learning, coding, minimalist and sustainable energy.
-- 🌱 Always learning and exploring.
+- 🌱 Always learning and exploring. Open minded and deep thinker. 
 - 🎯 I would love to work for people or organization that has meaningful impact, ambitious, understanding and has a great mindset.
 
 <!---
