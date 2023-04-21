@@ -63,13 +63,20 @@
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=maimul&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
+<p align='center'>
+  <img src='https://github-profile-trophy.vercel.app/?username=maimul&theme=onestar&no-frame=true&no-bg=false&margin-w=4'
+       alt='Github Trophies'/>
+</p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<p align='center'>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko"
+       alt='Random Dev Quote'/>
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<p align='center'>
+  <img src="https://rm.up.railway.app/" width="512px"/>
+</p>
 
 ---
 
