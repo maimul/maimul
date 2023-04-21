@@ -1,5 +1,7 @@
 
-- 👋 Hi, I’m @maimul <img align='right' src='[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maimul)'/> 
+- 👋 Hi, I’m @maimul <a href='https://linkedin.com/in/maimul'><img align='right' src='https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white'/></a>
+- 
+-
 - 
 - 👀 My personal interest are technologies, machine learning, coding, minimalist and sustainable energy.
 - 🌱 Always learning and exploring. Open minded and deep thinker. 
