@@ -6,7 +6,7 @@
 
 
 # 💻 Tech Stack:
-<p align='left'>
+<div align='left'>
   ### Languages 🔡🌐 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
@@ -15,16 +15,7 @@
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <imh src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <imh src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  
-  <imh src=""/>
-  ![Python]() 
-  ![R]() 
-  ![Dart]() 
-  ![C++]() 
-  ![C#]() 
-  ![C]() 
-  ![MySQL]()
-</p>
+</div>
 
 ### ML/DL Libraries and packages 📚📦
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
