@@ -24,6 +24,7 @@
     </div>
     <div>
         <!-- Content for second column goes here -->
+        <br/>
         <h3>ML/DL Libraries and packages 📚📦</h3>
         <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
         <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
