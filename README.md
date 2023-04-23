@@ -6,6 +6,13 @@
 
 <img align='right' src='https://media.tenor.com/GLZZKZJyJAEAAAAM/dance-dancing-duck.gif'/>
 
+# 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maimul&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maimul&theme=dark&hide_border=false" alt="GitHub streak" /><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maimul&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
+</p>
+
 # 💻 Tech Stack:
 <div style="display: grid; grid-template-columns: 1fr 1fr;">
     <div>
@@ -72,13 +79,6 @@
         <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     </div><br/><br/>
 </div>
-
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maimul&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maimul&theme=dark&hide_border=false" alt="GitHub streak" /><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maimul&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
-</p>
 
 ### ✍️ Random Dev Quote
 <p align='center'>
