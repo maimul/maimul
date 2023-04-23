@@ -87,14 +87,14 @@
 
 <div>
 <h3> ✍️ Random Dev Quote</h3>
-<p align='left'>
+<p align='left' width='45%>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko"
        alt='Random Dev Quote'/>
 </div>
 
 <div>
 <h3>😂 Random Dev Meme</h3>
-<p align='right'>
+<p align='right' width='45%'>
   <img src="https://rm.up.railway.app/" width="512px"/>
 </p>
 </div>
