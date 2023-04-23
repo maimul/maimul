@@ -80,15 +80,32 @@
     <img width='70%' src="https://github-readme-streak-stats.herokuapp.com/?user=maimul&theme=dark&hide_border=false" alt="GitHub streak" />
 </p>
 
-### ✍️ Random Dev Quote
-<p align='center'>
+
+<div align='center'>
+
+<div>
+
+<div>
+<h3> ✍️ Random Dev Quote</h3>
+<p align='left'>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko"
        alt='Random Dev Quote'/>
+</div>
 
-### 😂 Random Dev Meme
-<p align='center'>
+<div>
+<h3>😂 Random Dev Meme</h3>
+<p align='right'>
   <img src="https://rm.up.railway.app/" width="512px"/>
 </p>
+</div>
+
+</div>
+
+
+
+
+
+
 
 ---
 
