@@ -3,7 +3,7 @@
 - 👀 My personal interest are technologies, machine learning, coding, minimalist and sustainable energy.
 - 🌱 Always learning and exploring. Open minded and deep thinker. 
 - 🎯 I love to work for people or organization that has meaningful impact, ambitious, understanding and has a optimistic mindset.
-<img align='right' src='https://media.tenor.com/GLZZKZJyJAEAAAAM/dance-dancing-duck.gif'/>
+<img align='right' src='https://media.tenor.com/GLZZKZJyJAEAAAAM/dance-dancing-duck.gif'/><br/>
 
 # 💻 Tech Stack:
 <div style="display: grid; grid-template-columns: 1fr 1fr;">
