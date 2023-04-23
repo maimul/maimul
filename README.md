@@ -4,10 +4,11 @@
 - 🌱 Always learning and exploring. Open minded and deep thinker. 
 - 🎯 I love to work for people or organization that has meaningful impact, ambitious, understanding and has a optimistic mindset.
 
+<p align='center'>
 <img align='left' width='47%' src="https://github-readme-stats.vercel.app/api?username=maimul&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" />
 <img align='right' width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=maimul&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
 <img align='right' src='https://media.tenor.com/GLZZKZJyJAEAAAAM/dance-dancing-duck.gif'/><br/>
-
+</p>
 
 
 # 💻 Tech Stack:
