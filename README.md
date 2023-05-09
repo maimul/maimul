@@ -75,8 +75,6 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-    <img align='center' width='70%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=maimul&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
-    <img width='70%' src="https://github-readme-stats.vercel.app/api?username=maimul&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" />
     <img width='70%' src="https://github-readme-streak-stats.herokuapp.com/?user=maimul&theme=dark&hide_border=false" alt="GitHub streak" />
 </p>
 
