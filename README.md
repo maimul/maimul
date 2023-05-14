@@ -74,7 +74,9 @@
 </div>
 
 # 📊 GitHub Stats:
-
+<p align="center">
+    <img width='80%' src="https://github-readme-streak-stats.herokuapp.com/?user=maimul&theme=dark&hide_border=false" alt="GitHub streak" />
+</p>
 
 ### ✍️ Random Dev Quote
 <p align='center'>
