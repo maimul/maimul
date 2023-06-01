@@ -86,11 +86,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko"
        alt='Random Dev Quote'/>
 
-### 😂 Random Dev Meme
-<p align='center'>
-  <img src="https://rm.up.railway.app/" width="512px"/>
-</p>
-
 ---
 
 
