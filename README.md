@@ -1,7 +1,6 @@
 
 - 👋 Hi, I’m @maimul <a href='https://linkedin.com/in/maimul'><img align='right' src='https://media.tenor.com/GLZZKZJyJAEAAAAM/dance-dancing-duck.gif'/></a>
-- 👀 My personal interest are technologies, machine learning, coding, minimalist and sustainable energy.
-- 🌱 Always learning and exploring. Open minded and deep thinker. 
+- 🌱 Always learning and exploring~
 - 🎯 I love to work for people or organization that has meaningful impact, ambitious, understanding and has a optimistic mindset.
 
 
