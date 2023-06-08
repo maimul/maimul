@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @maimul <a href='https://linkedin.com/in/maimul'><img align='right' src='https://media.tenor.com/GLZZKZJyJAEAAAAM/dance-dancing-duck.gif'/></a>
+- 👋 Hi, I’m @maimul <a href='https://linkedin.com/in/maimul'><img align='right' src='[https://media.tenor.com/GLZZKZJyJAEAAAAM/dance-dancing-duck.gif](https://github.com/maimul/maimul/blob/5043a494f8ee8ee4aaa55fdb3a8edea8369da535/363b1351a04f1903ba415f1854cd5221.jpg?raw=true)'/></a>
 - 👀 My personal interest are technologies, machine learning, coding, minimalist and sustainable energy.
 - 🌱 Always learning and exploring. Open minded and deep thinker. 
 - 🎯 I love to work for people or organization that has meaningful impact, ambitious, understanding and has a optimistic mindset.
