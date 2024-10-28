@@ -64,11 +64,8 @@
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
         <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
     </div>
-    <div>
-        <!-- Content for sixth column goes here -->
-        <h3>Coming Soon.. (Looking forward to learn) 🙇🏻‍♂️📚</h3>
-        <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-    </div><br/><br/>
+
+    <br/><br/>
 </div>
 
 # 📊 GitHub Stats:
