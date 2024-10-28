@@ -9,7 +9,7 @@
 <div style="display: grid; grid-template-columns: 1fr 1fr;">
     <div>
         <!-- Content for first column goes here -->
-        <h3>Languages 🔡🌐 </h3>
+        <h3>Languages/Markup Language 🔡🌐 </h3>
         <img style="display:inline-block" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
         <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
         <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
