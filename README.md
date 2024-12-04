@@ -4,8 +4,6 @@
   <img src="https://visitcount.itsvg.in/api?id=maimul&icon=0&color=0" />
 </p>
 
-
----
 - 👋 Hi, I’m @maimul
 - 🌱 Always learning and exploring~
 - 🎯 I love to work for people or organization that has meaningful impact, ambitious, understanding and has a optimistic mindset.
