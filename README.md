@@ -8,7 +8,6 @@
 - 🌱 Always learning and exploring~
 - 🎯 I love to work for people or organization that has meaningful impact, ambitious, understanding and has a optimistic mindset.
 
-
 ---
 # 💻 Tech Stack:
 <div style="display: grid; grid-template-columns: 1fr 1fr;">
