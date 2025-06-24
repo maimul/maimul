@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m ᗰᗩIᗰᑌᒪ
 - 🌱 Always learning and exploring~
-- 🎯 I love to work for people or organization that has meaningful impact, ambitious, understanding and has a optimistic mindset.
+- 🎯 I love to work for people or organization that has meaningful impact, ambitious, understanding and has an optimistic mindset.
 
 ---
 
