@@ -19,6 +19,7 @@
 # 📊 GitHub Stats:
 
 <p align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=maimul)](https://git.io/streak-stats)
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=maimul&theme=dark&hide_border=false" alt="GitHub streak"/><br/>
 </p>
 
