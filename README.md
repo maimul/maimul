@@ -7,6 +7,9 @@
 <table>
   <tr>
     <td align="left" valign="top">
+      <p>
+        As a software engineer, I specialize in automation, and streamlining processes to improve system reliability and efficiency. Highly motivated individual with attention to details in day to day tasks.
+      </p>
       <ul>
         <li>🌱 Always learning and exploring~</li>
         <li>🎯 I love to work for people or organizations that have meaningful impact, are ambitious, understanding, and have an optimistic mindset.</li>
