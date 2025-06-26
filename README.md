@@ -17,12 +17,14 @@
 </p>
 
 
+---
+
+<p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Maimul" alt="GitHub Streak"/>
   </a>
+</p>
 
-
----
 
  <a href='https://linkedin.com/in/maimul'><img align='right' src='https://media.tenor.com/GLZZKZJyJAEAAAAM/dance-dancing-duck.gif'/></a>
 
