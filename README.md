@@ -14,7 +14,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Maimul)](https://git.io/streak-stats)
 ---
 
  <a href='https://linkedin.com/in/maimul'><img align='right' src='https://media.tenor.com/GLZZKZJyJAEAAAAM/dance-dancing-duck.gif'/></a>
