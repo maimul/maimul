@@ -4,15 +4,22 @@
 
 <h1 align="center">Hi, I’m ᗰᗩIᗰᑌᒪ</h1>
 
-<p align="left"> 
-- 🌱 Always learning and exploring~
-- 🎯 I love to work for people or organization that has meaningful impact, ambitious, understanding and has an optimistic mindset.
-</p>
+<table>
+  <tr>
+    <td align="left" valign="top">
+      <ul>
+        <li>🌱 Always learning and exploring~</li>
+        <li>🎯 I love to work for people or organizations that have meaningful impact, are ambitious, understanding, and have an optimistic mindset.</li>
+      </ul>
+    </td>
+    <td align="right" valign="top">
+      <a href="https://linkedin.com/in/maimul">
+        <img src="https://media.tenor.com/GLZZKZJyJAEAAAAM/dance-dancing-duck.gif" width="120"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-
-<p align="right">
- <a href='https://linkedin.com/in/maimul'><img align='right' src='https://media.tenor.com/GLZZKZJyJAEAAAAM/dance-dancing-duck.gif'/></a>
-</p>
 ---
 
 <p align="center">
