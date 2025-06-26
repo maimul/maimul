@@ -1,7 +1,3 @@
-
-
----
-
 <h1 align="center">Hi, I’m ᗰᗩIᗰᑌᒪ</h1>
 
 <table border="0">
@@ -47,7 +43,3 @@
 <p align='center'>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko"
        alt='Random Dev Quote'/>
-
----
-
-
