@@ -1,4 +1,4 @@
-<h1 align="center">Hi! ᗰᗩIᗰᑌᒪ here</h1>
+<h1 align="center">ᗰᗩIᗰᑌᒪ</h1>
 
 <table border="0">
   <tr>
