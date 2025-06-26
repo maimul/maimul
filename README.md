@@ -19,8 +19,7 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=maimul)](https://git.io/streak-stats)
-    <img src="https://streak-stats.demolab.com/?user=maimul)](https://git.io/streak-stats" alt="GitHub streak"/><br/>
+ <a href='https://linkedin.com/in/maimul'><img align='right' src='https://media.tenor.com/GLZZKZJyJAEAAAAM/dance-dancing-duck.gif'/></a>
 </p>
 
 
