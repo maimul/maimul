@@ -2,7 +2,7 @@
 
 ---
 
-<h1>Hi, I’m ᗰᗩIᗰᑌᒪ</h1>
+<h1 align="center">Hi, I’m ᗰᗩIᗰᑌᒪ</h1>
 - 🌱 Always learning and exploring~
 - 🎯 I love to work for people or organization that has meaningful impact, ambitious, understanding and has an optimistic mindset.
 
