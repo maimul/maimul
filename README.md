@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I’m ᗰᗩIᗰᑌᒪ</h1>
 
-<table>
+<table border="0">
   <tr>
     <td align="left" valign="top">
       <p>
