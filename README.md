@@ -8,7 +8,7 @@
       </p>
       <ul>
         <li>🌱 Always learning and exploring~</li>
-        <li>🎯 I love to work for people or organizations that have meaningful impact, are ambitious, understanding, and have an optimistic mindset.</li>
+        <li>💼 If you like to connect on linkedin, please click the dancing duck. Thank you! </li>
       </ul>
     </td>
     <td align="right" valign="top">
