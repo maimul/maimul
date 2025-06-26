@@ -22,7 +22,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maimul)](https://git.io/streak-stats)
 </p>
 
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=maimul" alt="GitHub Streak" /></a>
  <a href='https://linkedin.com/in/maimul'><img align='right' src='https://media.tenor.com/GLZZKZJyJAEAAAAM/dance-dancing-duck.gif'/></a>
 
 ---
