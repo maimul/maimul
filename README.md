@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maimul&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maimul&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak"/>
   </a>
 </p>
 
