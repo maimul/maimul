@@ -7,8 +7,8 @@
         As a software engineer, I specialize in automation, and streamlining processes to improve system reliability and efficiency. Highly motivated individual with attention to details in day to day tasks.
       </p>
       <ul>
-        <li>🌱 Always learning and exploring~</li>
-        <li>💼 If you like to connect on linkedin, please click the dancing duck. Thank you! </li>
+        <li>🌱 Always learning and exploring.</li>
+        <li>💼 If you like to connect on linkedin, please click the duck. Thank you! </li>
       </ul>
     </td>
     <td align="right" valign="top">
