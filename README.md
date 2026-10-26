@@ -62,6 +62,7 @@ Real problems from real work, written up like newspaper features on [my blog](ht
 - [Every Test Passed. Production Returned 500.](https://maimul.github.io/blog/003-every-test-passed-production-500/) · <sub>Oct 21, 2026</sub>
 - [The Case of the Printer Nobody Could Reach](https://maimul.github.io/blog/002-bonjour-avahi-nas-printer/) · <sub>Oct 19, 2026</sub>
 - [AirPrint for a Printer That Never Had It](https://maimul.github.io/blog/001-airprint-for-any-printer/) · <sub>Oct 19, 2026</sub>
+
 <!-- BLOG-POST-LIST:END -->
 
 ### 🏅 Certifications
