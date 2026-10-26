@@ -19,4 +19,7 @@ jobs:
           max_post_count: 4
           template: "- [$title]($url) · <sub>$date</sub>$newline"
           date_format: "mmm d, yyyy"
+          tag_post_pre_newline: true
           commit_message: "Update the latest blog posts"
+          committer_username: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"

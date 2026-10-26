@@ -57,7 +57,8 @@ I run **[Teh C Labs](https://tehclabs.my)** ([@TehCLabs](https://github.com/TehC
 
 Real problems from real work, written up like newspaper features on [my blog](https://maimul.github.io/blog/).
 
-<!-- BLOG-POST-LIST:START -->- [The Guard That Couldn’t Read, So It Waved the Commit Through](https://maimul.github.io/blog/004-green-gate-red-commit/) · <sub>Oct 24, 2026</sub>
+<!-- BLOG-POST-LIST:START -->
+- [The Guard That Couldn’t Read, So It Waved the Commit Through](https://maimul.github.io/blog/004-green-gate-red-commit/) · <sub>Oct 24, 2026</sub>
 - [Every Test Passed. Production Returned 500.](https://maimul.github.io/blog/003-every-test-passed-production-500/) · <sub>Oct 21, 2026</sub>
 - [The Case of the Printer Nobody Could Reach](https://maimul.github.io/blog/002-bonjour-avahi-nas-printer/) · <sub>Oct 19, 2026</sub>
 - [AirPrint for a Printer That Never Had It](https://maimul.github.io/blog/001-airprint-for-any-printer/) · <sub>Oct 19, 2026</sub>
