@@ -20,7 +20,10 @@ The contribution snake is built in `maimul/maimul.github.io` (its `output` branc
 - Don't edit the blog list by hand. Run `gh workflow run blog-posts.yml` instead. The action needs
   `tag_post_pre_newline: true`, or the first item gets glued onto the start marker and renders as
   raw text.
-- Don't name products, clients or employers beyond what the README already says.
+- Don't name products, clients or employers beyond what the README already says. The Teh C Labs
+  table lists only products already announced on https://tehclabs.my; early-stage ones stay off.
+- The profile's name, bio, pronouns and location (Mr Nachos, Texas, Yee/Haw) are deliberately for
+  fun. Leave them alone.
 - Before committing a new image or badge URL, check it returns 200 (`curl -s -o /dev/null -w '%{http_code}' <url>`).
 - Read `TRACKER.md` at session start and keep it current.
 

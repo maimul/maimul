@@ -44,7 +44,6 @@ I run **[Teh C Labs](https://tehclabs.my)** ([@TehCLabs](https://github.com/TehC
 | --- | --- | --- |
 | 🏢 **CondoOS** | Multi-tenant condo management platform. Buildings still run on outdated software, WhatsApp threads and manual work; CondoOS gives management offices and committees real visibility. FastAPI backend, Expo / React Native app, and an AI committee assistant built on MCP with human-in-the-loop guardrails. | Active development |
 | 💈 **BarberOS** | Shop management for barbershops, built on reusable components from CondoOS with a clean, solid architecture. | Active development |
-| 🏗️ **ConstructionOS** | Project and site operations for construction teams. | Early development |
 
 ### 🔬 Currently Exploring
 
