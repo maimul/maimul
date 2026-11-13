@@ -57,10 +57,10 @@ I run **[Teh C Labs](https://tehclabs.my)** ([@TehCLabs](https://github.com/TehC
 Real problems from real work, written up like newspaper features on [my blog](https://maimul.github.io/blog/).
 
 <!-- BLOG-POST-LIST:START -->
+- [Cost One Workflow, Then Size the Cluster](https://maimul.github.io/blog/021-cost-one-workflow-then-size-the-cluster/) · <sub>Nov 13, 2026</sub>
+- [Claude Code, in Plain Words](https://maimul.github.io/blog/006-claude-code-in-plain-words/) · <sub>Nov 13, 2026</sub>
 - [The Deploy That Went Green and Shipped Nothing](https://maimul.github.io/blog/005-deploy-green-shipped-nothing/) · <sub>Oct 26, 2026</sub>
 - [The Guard That Couldn’t Read, So It Waved the Commit Through](https://maimul.github.io/blog/004-green-gate-red-commit/) · <sub>Oct 24, 2026</sub>
-- [Every Test Passed. Production Returned 500.](https://maimul.github.io/blog/003-every-test-passed-production-500/) · <sub>Oct 21, 2026</sub>
-- [The Case of the Printer Nobody Could Reach](https://maimul.github.io/blog/002-bonjour-avahi-nas-printer/) · <sub>Oct 19, 2026</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
